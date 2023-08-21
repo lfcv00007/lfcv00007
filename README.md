@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hello! I'm Fernando.
 
-<!--
-**lfcv00007/lfcv00007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enthusiastic about technology and software design.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Backend Engineer with experience in designing REST APIs using industry best practices.
+- 💶 Robust expertise in payments, banking solutions and integrations.
+- 📗 Graduated in Information Technologies and Computer Science from the University of Jaén.
+
+## 🔧 Skills & Technologies
+
+- 💻 Proficient in: Typescript | Javascript | API REST | NestJS | PHP | Laravel
+- 💾 Databases: MySQL | MongoDB | Doctrine | Mongoose
+- 🚀 Tools: Git | AWS
+
+Let's connect on LinkedIn: [Fernando Cortes](https://www.linkedin.com/in/fernando-cort%C3%A9s-vallez-9b0801103)
