@@ -10,9 +10,9 @@ Enthusiastic about technology and software design.
 
 ## 🔧 Skills & Technologies
 
-- 💻 Proficient in: Typescript | Javascript | API REST | NestJS | PHP | Laravel
+- 💻 Proficient in: Typescript | Javascript | NestJS | PHP | Laravel
 - 💾 Databases: MySQL | MongoDB | Doctrine | Mongoose
-- 🚀 Tools: Git | AWS
+- 🚀 Tools: Git | AWS | Jest | OpenAPI | Swagger | API REST | SOAP
 
 ## 📚 Currently learning
 
